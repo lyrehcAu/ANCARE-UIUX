@@ -1,6 +1,6 @@
 # ANCARE - Pet Care Platform
 
-AnCaRE adalah platform all-in-one untuk pemilik hewan peliharaan. Melalui website ini, pengguna dapat: <br>
+ANCARE adalah platform all-in-one untuk pemilik hewan peliharaan. Melalui website ini, pengguna dapat: <br>
 💬 Konsultasi dengan dokter hewan terpercaya.<br>
 🛒 Belanja kebutuhan hewan peliharaan.<br>
 💊 Membeli obat-obatan khusus hewan.<br>
