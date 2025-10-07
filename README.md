@@ -9,4 +9,3 @@ ANCARE adalah platform all-in-one untuk pemilik hewan peliharaan. Melalui websit
 
 🔗 View Prototype on Figma<br>
 https://www.figma.com/design/JKHUvQPuTIoq2Y9faDUjgq/AnCare---kelompok-11-LS01?node-id=83-343&t=4tEQGlGF2t9EfXWb-1
-<br>(klik link untuk melihat versi interaktif / presentasi desain)
